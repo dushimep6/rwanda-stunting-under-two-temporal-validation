@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper and this archive."
+title: "Code and results for: Do machine learning models for stunting in children under two years stay accurate across two Rwanda surveys? A temporal validation study"
+type: software
+authors:
+  - family-names: Dushimimana
+    given-names: Pasteur
+    orcid: "https://orcid.org/0009-0004-4708-4202"
+license: MIT
+version: "1.0.0"
+date-released: "2026-11-11"
+repository-code: "https://github.com/dushimep6/rwanda-stunting-under-two-temporal-validation"
