@@ -7,8 +7,6 @@ Code and summary results for a paper on temporal validation of machine learning 
 
 Seven models are compared: logistic regression, decision tree, random forest, gradient boosting, XGBoost, LightGBM and CatBoost. Nothing is tuned on the test survey. The paper also reports recalibration in the test survey, decision curves, subgroup and survey-weighted AUC, a comparison with models trained inside each survey, and a repeat with a second tuning seed.
 
-A companion repository covers the same design for children aged 0 to 59 months.
-
 ## Data (not included)
 
 The survey data are free to registered users from the DHS Program (https://dhsprogram.com). Request the Rwanda 2019-20 and 2024-25 children's recode files. No survey data, per-child predictions or Stata log files are shared here, and `.gitignore` blocks them.
