@@ -1,0 +1,8 @@
+model,params,threshold
+Logistic Regression,"{'C': 1.256586851892363, 'penalty': 'l1'}",0.5127586726640196
+Decision Tree,"{'max_depth': 5, 'min_samples_split': 2, 'min_samples_leaf': 5, 'criterion': 'gini'}",0.5279945707499153
+Random Forest,"{'n_estimators': 423, 'max_depth': 23, 'min_samples_split': 8, 'min_samples_leaf': 6, 'max_features': 'log2'}",0.4620314955722855
+Gradient Boosting,"{'n_estimators': 335, 'learning_rate': 0.037792712147321994, 'max_depth': 2, 'min_samples_split': 9, 'subsample': 0.5308741036160558}",0.46605059105947766
+XGBoost,"{'n_estimators': 534, 'learning_rate': 0.025282775220788197, 'max_depth': 2, 'subsample': 0.6295816364235393, 'colsample_bytree': 0.5177833598900713, 'min_child_weight': 1, 'reg_alpha': 0.0020042718533875726, 'reg_lambda': 2.599601259155413}",0.4603596031665802
+LightGBM,"{'n_estimators': 78, 'learning_rate': 0.11706306289704879, 'max_depth': 2, 'num_leaves': 76, 'subsample': 0.6474044000873147, 'colsample_bytree': 0.8520996379065936, 'min_child_samples': 33}",0.48963578380360706
+CatBoost,"{'iterations': 309, 'learning_rate': 0.039198308838148274, 'depth': 2, 'l2_leaf_reg': 0.41314385610551624}",0.4879470681257646
